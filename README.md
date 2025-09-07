@@ -19,6 +19,7 @@ If you'd like, I can also help you turn this into a clickable badge or embed it 
 
 **- 👯 I’m looking to collaborate on:**
   - I am creating YouTube videos that teach Terraform, YAML pipelines, automation, AI, and other topics that empower and inspire IT career growth. If you're passionate about sharing knowledge and creating impactful tech content, let's connect and build something awesome together.
+  - Youtube: https://www.youtube.com/@Giavarini_Tech
 
 **- 📫 How to reach me:**
   - E-mail: laeli@giavarini.ca
